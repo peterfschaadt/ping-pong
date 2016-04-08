@@ -1,6 +1,6 @@
 # Ping Pong Dashboard
 
-An automated ping pong scoreboard/leaderboard dashboard for the office.
+An automated ping pong scoreboard/leaderboard for the office.
 
 Based on a project created by [sidgtl](https://github.com/sidgtl/Ping-Pong), with updates from [timelf123](https://github.com/timelf123/Ping-Pong). Check out sidgtl's [original blog post](http://sidigital.co/blog/lab-notes-hacking-our-ping-pong-table).
 
